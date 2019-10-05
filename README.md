@@ -1,4 +1,4 @@
-# People Restaurant
+# People Restaurant :tada:
 
 This is a starting project with Flutter application.
 
